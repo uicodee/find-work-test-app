@@ -1,5 +1,4 @@
 import { CloudAlert, LucideIcon, UserX } from "lucide-react";
-import { createElement } from "react";
 
 type AlertType = "not-found" | "error";
 
